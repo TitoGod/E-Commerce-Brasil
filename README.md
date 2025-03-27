@@ -69,6 +69,21 @@ Este análisis se enfoca en responder las siguientes preguntas clave:
 4. Ejecutar los scripts de ETL y carga de datos en SQL Server.
 5. Abrir Power BI para analizar los resultados.
 
+## Herramientas y Tecnologías
+	
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+
 ## Contacto
 Si tienes dudas o sugerencias, contáctame a: [mauro.dr07@gmail.com]
 
+## Autor
+
+[<img src="https://avatars.githubusercontent.com/u/110009701?v=4" width=115><br><sub>Mauro Diaz Ruffino</sub>](https://github.com/TitoGod)
